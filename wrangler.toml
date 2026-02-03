@@ -1,4 +1,4 @@
-name = "discord-worker"
+name = "discordapp"
 main = "workers/discord-worker.js"
 compatibility_date = "2025-12-19"
 # Replace the placeholder below with your actual Cloudflare Account ID, or leave it out and authenticate with `wrangler login` in CI
